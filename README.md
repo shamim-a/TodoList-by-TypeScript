@@ -1,4 +1,3 @@
-# Getting Started with Create React App
 
 # Live Site link: [TodoList](https://todolist-shamim.netlify.app/)
 
